@@ -1,0 +1,13 @@
+{
+  "name": "meiya/rpc-client",
+  "description": "美芽rpc客户端",
+  "require": {
+    "fguillot/json-rpc": "@stable",
+    "rmccue/requests": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Providers\\": "providers/"
+    }
+  }
+}
