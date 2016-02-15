@@ -4,8 +4,6 @@
  * Time: 11:39 AM
  */
 
-require 'vendor/autoload.php';
-
 use JsonRPC\Client;
 
 class RPCClient
